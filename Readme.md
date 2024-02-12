@@ -86,10 +86,10 @@ Hi 👋. I'm Muhammad Kamran
 </h3>
 <div style="display: flex; align-items: center; gap: 1px;">
   <p style="align-self: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kami-1716&show_icons=true&locale=en&layout=compact&theme=radical" alt="kami-1716" style="height: 200px; width: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kami-1716&show_icons=true&locale=en&layout=compact&theme=radical" alt="kami-1716" style="height: 200px;" />
   </p>
 
   <p style="align-self: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kami-1716&show_icons=true&locale=en&theme=radical" alt="kami-1716" style="height: 200px; width: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kami-1716&show_icons=true&locale=en&theme=radical" alt="kami-1716" style="height: 200px;" />
   </p>
 </div>
