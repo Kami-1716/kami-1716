@@ -29,7 +29,7 @@ Hi 👋. I'm Muhammad Kamran
 </p>
 
 <h3>
-🤝Languages and Tools
+🛠️Languages and Tools
 <hr>
 </h3>
 <p align="left">
@@ -81,7 +81,7 @@ Hi 👋. I'm Muhammad Kamran
 </p>
 
 <h3>
-🤝Github Stats
+📊Github Stats
 <hr>
 </h3>
 <div style="display: flex; align-items: center; gap: 1px;">
