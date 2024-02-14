@@ -85,7 +85,7 @@ Hi 👋. I'm Muhammad Kamran
 <hr>
 </h3>
 <div style="display: flex; align-items: center; gap: 1px;">
-  <p style="align-self: center;">
+  <p style="align-self: right;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kami-1716&show_icons=true&locale=en&layout=compact&theme=radical" alt="kami-1716" style="height: 200px; width: 100%;" />
   </p>
 
