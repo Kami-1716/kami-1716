@@ -89,7 +89,7 @@ Hi 👋. I'm Muhammad Kamran
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kami-1716&show_icons=true&locale=en&layout=compact&theme=radical" alt="kami-1716" style="height: 200px; width: 100%;" />
   </p>
 
-  <p style="align-self: center;">
+  <!-- <p style="align-self: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=kami-1716&show_icons=true&locale=en&theme=radical" alt="kami-1716" style="height: 200px; width: 100%;" />
-  </p>
+  </p> -->
 </div>
